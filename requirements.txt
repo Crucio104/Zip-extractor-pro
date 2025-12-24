@@ -1,0 +1,16 @@
+# Zip Extractor Pro - Requirements
+# 
+# This application uses only Python standard library modules.
+# No external dependencies are required!
+#
+# Standard library modules used:
+# - tkinter (GUI framework - included with Python)
+# - zipfile (ZIP file handling - included with Python)
+# - os (operating system interface - included with Python)
+#
+# Python version required: 3.6 or higher
+#
+# Note: On some Linux distributions, tkinter may need to be installed separately:
+# Ubuntu/Debian: sudo apt-get install python3-tk
+# Fedora: sudo dnf install python3-tkinter
+# Arch Linux: sudo pacman -S tk
