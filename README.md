@@ -155,7 +155,7 @@ tkinter (included with Python on Windows/macOS)
 
 **Note**: This application uses only Python's standard library. No external packages need to be installed via pip!
 
-## 🔧 Troubleshooting
+## Troubleshooting
 
 ### Tkinter not found (Linux only)
 If you get an error about tkinter not being available:
